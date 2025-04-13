@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "category": "Smartphone",
+      "brand": "Apple",
+      "model": "iPhone 15 Pro",
+      "specs": {
+        "display": "6.1-inch Super Retina XDR",
+        "chip": "A17 Pro",
+        "storage": "128GB, 256GB, 512GB, 1TB",
+        "camera": "48MP main, 12MP ultra-wide, 12MP telephoto",
+        "battery": "Up to 23 hours video playback",
+        "os": "iOS 17"
+      },
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-family"
+    },
+    {
+      "category": "Laptop",
+      "brand": "Apple",
+      "model": "MacBook Pro 14-inch (M3)",
+      "specs": {
+        "display": "14.2-inch Liquid Retina XDR",
+        "chip": "Apple M3",
+        "ram": "8GB, 16GB, 24GB",
+        "storage": "512GB, 1TB, 2TB",
+        "battery": "Up to 18 hours",
+        "os": "macOS Sonoma"
+      },
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-spaceblack"
+    },
+    {
+      "category": "Smartphone",
+      "brand": "Samsung",
+      "model": "Galaxy S24 Ultra",
+      "specs": {
+        "display": "6.8-inch QHD+ AMOLED 2X",
+        "chip": "Snapdragon 8 Gen 3",
+        "storage": "256GB, 512GB, 1TB",
+        "camera": "200MP wide, 12MP ultra-wide, 10MP telephoto",
+        "battery": "5000mAh",
+        "os": "Android 14, One UI 6"
+      },
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/2401/gallery/levant-galaxy-s24-ultra-sm-s928bzkgmea-01"
+    },
+    {
+      "category": "Laptop",
+      "brand": "Samsung",
+      "model": "Galaxy Book4 Pro",
+      "specs": {
+        "display": "14-inch or 16-inch AMOLED",
+        "chip": "Intel Core Ultra 7",
+        "ram": "16GB, 32GB",
+        "storage": "512GB, 1TB",
+        "battery": "Up to 20 hours",
+        "os": "Windows 11"
+      },
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/levant/2401/gallery/levant-galaxy-book4-pro-16inch-np964xk-k01mea-01"
+    }
+  ]
+}
